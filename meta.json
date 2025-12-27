@@ -1,0 +1,59 @@
+{
+  "mapsetId": "b06v19g8gqo2",
+  "songName": "Make a Move (Speed Up Ver.)",
+  "artistName": "Icon For Hire",
+  "mapper": "Toiletwasher",
+  "description": "Good Luck!",
+  "tags": "",
+  "language": "english",
+  "explicit": false,
+  "audioFile": "audio.mp3",
+  "backgroundFiles": [
+    "bg1.png"
+  ],
+  "videoFile": null,
+  "videoStartTime": 0,
+  "timingPoints": [
+    {
+      "id": 1766740746103.9077,
+      "time": 3.395,
+      "bpm": 202.54,
+      "offset": 3395,
+      "timeSignature": [
+        4,
+        4
+      ]
+    }
+  ],
+  "bpm": 202.54,
+  "offset": 3395,
+  "previewTime": 29834,
+  "difficulties": [
+    {
+      "diffId": "gzf9_0_0_0",
+      "name": "NORMAL",
+      "filename": "Make a Move (Speed Up Ver.)-NORMAL.rtm.json"
+    },
+    {
+      "diffId": "iltb_1_1_1",
+      "name": "HARD",
+      "filename": "Make a Move (Speed Up Ver.)-HARD.rtm.json"
+    },
+    {
+      "diffId": "maeh_4_2_2",
+      "name": "INSANE",
+      "filename": "Make a Move (Speed Up Ver.)-INSANE.rtm.json"
+    },
+    {
+      "diffId": "7rxy_2_3_3",
+      "name": "EXPERT",
+      "filename": "Make a Move (Speed Up Ver.)-EXPERT.rtm.json"
+    },
+    {
+      "diffId": "yxpp_3_4_4",
+      "name": "WE DONT KNOW WHATS GOING ON",
+      "filename": "Make a Move (Speed Up Ver.)-WE DONT KNOW WHATS GOING ON.rtm.json"
+    }
+  ],
+  "hasCustomHitsounds": false
+}

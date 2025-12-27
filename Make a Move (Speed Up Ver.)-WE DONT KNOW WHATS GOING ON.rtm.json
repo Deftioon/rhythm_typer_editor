@@ -1,0 +1,6901 @@
+{
+  "mapsetId": "b06v19g8gqo2",
+  "diffId": "yxpp_3_4_4",
+  "name": "WE DONT KNOW WHATS GOING ON",
+  "overallDifficulty": 10,
+  "bgFile": "bg1.png",
+  "notes": [
+    {
+      "key": "q",
+      "time": 9320,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "startTime": 9320,
+      "endTime": 11098,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 70,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 0,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "w",
+      "time": 9468,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 9616,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 9764,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "q",
+      "time": 9912,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "startTime": 9912,
+      "endTime": 11098,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 70,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 0,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "w",
+      "time": 10060,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 10208,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 10357,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "q",
+      "time": 10505,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "startTime": 10505,
+      "endTime": 11098,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 0,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "w",
+      "time": 10653,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 10801,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 10949,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "q",
+      "time": 11097,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 11097,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "w",
+      "time": 11245,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 11393,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 11542,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 11690,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "startTime": 11690,
+      "endTime": 13467,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 0,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 11838,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 11986,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 12134,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 12282,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ",",
+      "startTime": 12282,
+      "endTime": 13467,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 0,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 12430,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 12578,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 12726,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 12875,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ".",
+      "startTime": 12875,
+      "endTime": 13467,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 0,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 13023,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 13171,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 13319,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 13467,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "/",
+      "time": 13467,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 13615,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 13763,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 13911,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 14060,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "startTime": 14060,
+      "endTime": 15837,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 0,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 14208,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 14356,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 14504,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 14652,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "startTime": 14652,
+      "endTime": 15837,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 0,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 14800,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 14948,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 15096,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 15245,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "startTime": 15245,
+      "endTime": 15837,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 0,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 15393,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 15541,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 15689,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "o",
+      "time": 15837,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 15837,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 15985,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 16133,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 16281,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 16429,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 16429,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 16578,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 16578,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 16726,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 16726,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 16874,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 16874,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 17022,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 17022,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 17170,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 17170,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 17318,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 17318,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 17466,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 17466,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 17614,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 17614,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 17763,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 17763,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 17911,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 17911,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 18059,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 18059,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "g",
+      "time": 18207,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "h",
+      "time": 18207,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 18429,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 18429,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 18429,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "o",
+      "time": 18429,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "w",
+      "startTime": 18651,
+      "endTime": 20577,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "e",
+      "startTime": 18651,
+      "endTime": 20577,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "q",
+      "startTime": 18651,
+      "endTime": 20577,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 18651,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ",",
+      "time": 18651,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 18651,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 18799,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 18799,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 18947,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 19096,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 19096,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 19244,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 19392,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 19392,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 19540,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 19688,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 19688,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 19836,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 19984,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 19984,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 20132,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "startTime": 20281,
+      "endTime": 20577,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "j",
+      "startTime": 20281,
+      "endTime": 20577,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "o",
+      "startTime": 21169,
+      "endTime": 22947,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "i",
+      "startTime": 21169,
+      "endTime": 22947,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "p",
+      "startTime": 21169,
+      "endTime": 22947,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 21169,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 21169,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 21317,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 21466,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 21466,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 21614,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 21762,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 21762,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 21910,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 22058,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 22058,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 22206,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 22354,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 22354,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 22502,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 22650,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 22650,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 22799,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 22947,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 22947,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "h",
+      "time": 23243,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "g",
+      "time": 23243,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 23539,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 23687,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 23835,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "q",
+      "time": 23984,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 24132,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 24280,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 24428,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 24576,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 24724,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 24872,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "o",
+      "time": 25020,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 25168,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 25317,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 25465,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 25613,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 25761,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "startTime": 25909,
+      "endTime": 28279,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "n",
+      "startTime": 26205,
+      "endTime": 28279,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "g",
+      "startTime": 26502,
+      "endTime": 28279,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "j",
+      "startTime": 26798,
+      "endTime": 28279,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "f",
+      "startTime": 27094,
+      "endTime": 28279,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "h",
+      "startTime": 27390,
+      "endTime": 28279,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 28279,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 28279,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 28427,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 28427,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 28575,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 28575,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "/",
+      "time": 28723,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 28723,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 28871,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ".",
+      "time": 28871,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ",",
+      "time": 29020,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 29020,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 29168,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 29168,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 29168,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 29168,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "g",
+      "time": 29316,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 29316,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 29316,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "h",
+      "time": 29316,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 29464,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 29464,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 29464,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 29464,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "w",
+      "time": 29612,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "o",
+      "time": 29612,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "q",
+      "time": 29612,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "p",
+      "time": 29612,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 29612,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 29612,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 29760,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 29760,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 29760,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 29760,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 29760,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 29760,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 29908,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 29908,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 29908,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ".",
+      "time": 29908,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "/",
+      "time": 29908,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ",",
+      "time": 29908,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "g",
+      "startTime": 30056,
+      "endTime": 30353,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 30649,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 30649,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 30649,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 30649,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 30945,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 30945,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 30945,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 30945,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 31241,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 31389,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 31538,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 31686,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 31834,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "o",
+      "time": 31834,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 31834,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 31834,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 32130,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 32130,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 32130,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 32130,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 32426,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 32426,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 32574,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "p",
+      "time": 32723,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "o",
+      "time": 32723,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 32871,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 33019,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 33167,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "startTime": 33315,
+      "endTime": 33611,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 33611,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 33611,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 33759,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "w",
+      "time": 33907,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "q",
+      "time": 33907,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 34056,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 34204,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 34204,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "/",
+      "time": 34204,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ".",
+      "time": 34204,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 34352,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ",",
+      "time": 34352,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ".",
+      "time": 34352,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 34352,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "startTime": 34500,
+      "endTime": 34796,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "n",
+      "startTime": 34500,
+      "endTime": 34796,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "v",
+      "startTime": 34500,
+      "endTime": 34796,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "m",
+      "startTime": 34500,
+      "endTime": 34796,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 35092,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 35389,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "w",
+      "time": 35389,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "q",
+      "time": 35389,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 35389,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 35389,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 35389,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 35685,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 35685,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 35685,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 35685,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 35685,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 35685,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 35981,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 36129,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 36277,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 36426,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 36574,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "o",
+      "time": 36574,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "p",
+      "time": 36574,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 36574,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 36574,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 36574,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ",",
+      "time": 36870,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 36870,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 36870,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 36870,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ".",
+      "time": 36870,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 36870,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 37166,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 37166,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 37166,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 37314,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 37462,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 37462,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 37462,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 37610,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 37759,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 37907,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 38055,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 38203,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 38351,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 38499,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 38647,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 38795,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 38944,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 39092,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "w",
+      "time": 39240,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "startTime": 39536,
+      "endTime": 39980,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "f",
+      "startTime": 39536,
+      "endTime": 39980,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "k",
+      "startTime": 39758,
+      "endTime": 39980,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "d",
+      "startTime": 39758,
+      "endTime": 39980,
+      "type": "hold",
+      "hitsound": {
+        "sampleSet": "normal",
+        "start": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        },
+        "hold": {
+          "volume": 100,
+          "loop": "normal"
+        },
+        "end": {
+          "volume": 100,
+          "sounds": {
+            "hitnormal": true,
+            "hitclap": false,
+            "hitwhistle": false,
+            "hitfinish": false
+          }
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 39980,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 39980,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 40128,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 40203,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 40277,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 40351,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 40425,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 40499,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 40573,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 40647,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 40721,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 40795,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 40869,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 40943,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 41017,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 41091,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 41165,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 41239,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 41313,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 41387,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 41462,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 41536,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 41610,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 41684,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 41758,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 41832,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 41906,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 41980,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 42054,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 42128,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "u",
+      "time": 42202,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "y",
+      "time": 42276,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "t",
+      "time": 42350,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "r",
+      "time": 42424,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 42498,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 42572,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 42647,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 42721,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 42795,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 42869,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 42943,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 43017,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 43091,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 43165,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 43239,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 43313,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 43387,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 43461,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 43535,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 43609,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 43683,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 43757,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 43831,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 43906,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 43980,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 44054,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 44128,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 44202,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 44276,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 44350,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 44424,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 44498,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 44572,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 44646,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 44720,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 44794,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "/",
+      "time": 44868,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ".",
+      "time": 44942,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ",",
+      "time": 45016,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 45090,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 45165,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 45239,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 45313,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 45387,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "/",
+      "time": 45461,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ".",
+      "time": 45535,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ",",
+      "time": 45609,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 45683,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 45757,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 45831,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 45905,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 45979,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "/",
+      "time": 46053,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ".",
+      "time": 46127,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ",",
+      "time": 46201,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 46275,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 46349,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 46424,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 46498,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "z",
+      "time": 46572,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": ";",
+      "time": 46646,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 46646,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 46794,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "j",
+      "time": 46794,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 46942,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 46942,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 47090,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 47090,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "o",
+      "time": 47238,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 47386,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 47534,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "q",
+      "time": 47683,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "l",
+      "time": 47831,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "k",
+      "time": 47831,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 47979,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "f",
+      "time": 47979,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 48127,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 48127,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "e",
+      "time": 48275,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "w",
+      "time": 48275,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "i",
+      "time": 48423,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "o",
+      "time": 48423,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "p",
+      "time": 48423,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "s",
+      "time": 48571,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "d",
+      "time": 48571,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "a",
+      "time": 48571,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "c",
+      "time": 48719,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "v",
+      "time": 48719,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "x",
+      "time": 48719,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "m",
+      "time": 48719,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "b",
+      "time": 48719,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    },
+    {
+      "key": "n",
+      "time": 48719,
+      "type": "tap",
+      "hitsound": {
+        "sampleSet": "normal",
+        "volume": 100,
+        "sounds": {
+          "hitnormal": true,
+          "hitclap": false,
+          "hitwhistle": false,
+          "hitfinish": false
+        }
+      }
+    }
+  ],
+  "typingSections": [],
+  "starRating": 16.569852177373274,
+  "starRatingNC": 24.094802769609807,
+  "starRatingHT": 12.36097672549288
+}
