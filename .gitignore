@@ -1,3 +1,4 @@
-/target
 *.rtm
 *.json
+
+/target
