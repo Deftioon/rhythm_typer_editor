@@ -76,11 +76,11 @@ When hovering over the timeline, you can:
 
 Some images of the editor in action.
 
-![koigokoro](images\koigokoro.png)
+![koigokoro](/images/koigokoro.png)
 
 Beatmap: [Icon for Hire - Koigokoro [Love] (Mualani, 10.30*)](https://rhythmtyper.net/beatmap/p5stw45z7wzp)
 
-![make a move](images\makeamove.png)
+![make a move](/images/makeamove.png)
 
 [Icon For Hire - Make a Move (Speed Up Ver.) \[WE DONT KNOW WHATS GOING ON\] (Toiletwasher, 16.57*)](https://rhythmtyper.net/beatmap/1gkqcs2vslew)
 
