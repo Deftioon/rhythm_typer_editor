@@ -21,6 +21,7 @@ pub fn ui_system(
     audio: Res<Audio>,
     mut audio_instances: ResMut<Assets<AudioInstance>>,
     mut state: ResMut<EditorState>,
+    keyboard: Res<ButtonInput<KeyCode>>,
     time: Res<Time>,
 ) {
     let ctx = contexts.ctx_mut();
@@ -302,6 +303,12 @@ pub fn ui_system(
                 }
 
                 state.audio_seek_request = Some(state.current_time);
+            }
+
+            // CapsLock toggles tap/hold mode (but don't steal focus when typing in text fields).
+            if !ctx.wants_keyboard_input() && keyboard.just_pressed(KeyCode::CapsLock) {
+                state.is_hold_mode = !state.is_hold_mode;
+                ctx.request_repaint();
             }
 
             ui.separator();
